@@ -9,9 +9,16 @@ issues in computer ethics and in software engineering.
 The text has kindly been made available by its author for many years. This repo
 is a Jekyll site with styling to help students investigate it on a web browser.
 
-> * see [The Case of the Killer Robot](https://davewhiteland.github.io/epstein-killer-robot)
->   for this version
+>
+> ### This is the RHUL-CS fork:
+>
+> **The URL to share with students is:**
+>
+> **[https://rhul-cs-projects.github.io/epstein-killer-robot/](https://rhul-cs-projects.github.io/epstein-killer-robot/)**
+>
 
+The repo is synched upstream from
+[davewhiteland/epstein-killer-robot](https://github.com/davewhiteland/epstein-killer-robot)
 
 ## License
 
